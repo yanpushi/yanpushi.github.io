@@ -106,7 +106,7 @@
   <div class="container" id="contact">
     <h2>Contact Me</h2>
     <p>Have any questions or just want to connect? Reach out to me at:</p>
-    <p><strong>Email:</strong> <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p><strong>Email:</strong> <a href="mailto:yanpushi@gmail.com">yanpushi@gmail.com</a></p>
   </div>
 
   <footer>
